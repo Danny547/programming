@@ -1,2 +1,3 @@
 # programming
-this my repo on gitnub
+this is my repo on gitnub it was 1 st repo used for programming
+
